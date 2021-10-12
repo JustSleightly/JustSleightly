@@ -28,6 +28,8 @@
 </a>
 </p>
   
-  <h2 align="center">Hey there 👋</h2>
+  -----
+  
+###  Hey there 👋
 
 Thanks for dropping by my profile! I'm currently dabbling in a lot of C# for Unity and writing lots of markdown. Feel free to check out some of my repositories, and let me know what you think! I also have a store where I sell scripts, prefabs, animations, assets, and more. Click on some of my links above!
