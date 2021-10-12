@@ -1,15 +1,15 @@
 <p align="center">
     <a href="https://vrc.sleightly.dev/">
-      <img alt="JustSleightly" src="https://github.com/JustSleightly/Resources/raw/main/Icons/JSLogo.png" width="50" height="50"/>
+      <img alt="JustSleightly" src="https://github.com/JustSleightly/Resources/raw/main/Icons/JSLogo.png" width="60" height="60"/>
     </a>
     <a href="https://discord.sleightly.dev/">
-      <img alt="Discord" src="https://github.com/JustSleightly/Resources/raw/main/Icons/Discord.png" width="50" height="50"/>
+      <img alt="Discord" src="https://github.com/JustSleightly/Resources/raw/main/Icons/Discord.png" width="60" height="60"/>
     </a>
     <a href="https://github.sleightly.dev/">
-      <img alt="GitHub" src="https://github.com/JustSleightly/Resources/raw/main/Icons/GitHub.png" width="50" height="50"/>
+      <img alt="GitHub" src="https://github.com/JustSleightly/Resources/raw/main/Icons/GitHub.png" width="60" height="60"/>
     </a>
     <a href="https://store.sleightly.dev/">
-      <img alt="Store" src="https://github.com/JustSleightly/Resources/raw/main/Icons/Store.png" width="50" height="50"/>
+      <img alt="Store" src="https://github.com/JustSleightly/Resources/raw/main/Icons/Store.png" width="60" height="60"/>
     </a>
   </p>
   
