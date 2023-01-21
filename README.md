@@ -17,9 +17,6 @@
     <a href="https://discord.sleightly.dev/">
       <img alt="Discord" src="https://img.shields.io/discord/780192344800362506"/>
     </a>
-    <a href="https://twitter.com/intent/user?screen_name=SleightlyDev">
-      <img alt="Twitter" src="https://img.shields.io/twitter/follow/SleightlyDev?style=social"/>
-    </a>
   </p>
   
 <p align="center">
